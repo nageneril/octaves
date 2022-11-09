@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+  <readme>
+    <locale name="ru" asset="f0458cdfadc28740395a478f963696f2c67158730bce3eba6febea639e6cb8b2"/>
+    <locale name="en" asset="82ece0ec5f8a7e39a08c4e1fa74cb68ef7039f0fd20e8ae76eb04731a3e7da3d"/>
+    <locale name="pl" asset="91667049886021d62a28c23f7bf72efd69deed9f1993d3130ded1dda4efde51d"/>
+  </readme>
+  <exercise number="1">
+    <scale>major</scale>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,18"/>
+      <note number="2" values="18,1"/>
+      <note number="3" values="18,1"/>
+      <note number="4" values="18,1"/>
+    </notes>
+  </exercise>
+  <exercise number="2">
+    <scale>major</scale>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,18"/>
+      <note number="2" values="18,1"/>
+      <note number="3" values="18,1"/>
+      <note number="4" values="18,1"/>
+    </notes>
+  </exercise>
+  <exercise number="3">
+    <scale>major</scale>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,18"/>
+      <note number="2" values="18,1"/>
+      <note number="3" values="18,1"/>
+      <note number="4" values="18,1"/>
+    </notes>
+  </exercise>
+  <exercise number="4">
+    <scale>major</scale>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,18"/>
+      <note number="2" values="18,1"/>
+      <note number="3" values="18,1"/>
+      <note number="4" values="18,1"/>
+    </notes>
+  </exercise>
+  <exercise number="5">
+    <scale>major</scale>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,18"/>
+      <note number="2" values="18,1"/>
+      <note number="3" values="18,1"/>
+      <note number="4" values="18,1"/>
+    </notes>
+  </exercise>
+</level>
