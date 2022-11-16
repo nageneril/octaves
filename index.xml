@@ -5,6 +5,7 @@
     <locale name="en" asset="2e161dec5fa3768d4a446629a2e25fdd6fd7d33143d246632cce63235c6fcc7e"/>
     <locale name="pl" asset="91667049886021d62a28c23f7bf72efd69deed9f1993d3130ded1dda4efde51d"/>
   </readme>
+  <readme asset="ab3fa80eec473182566d2a4176319276d0929c8efb51ce02ce36a5e133cab448"/>
   <exercise number="1">
     <scale>major</scale>
     <lowestNote>1</lowestNote>
