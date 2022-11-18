@@ -5,7 +5,7 @@
     <locale name="en" asset="2e161dec5fa3768d4a446629a2e25fdd6fd7d33143d246632cce63235c6fcc7e"/>
     <locale name="pl" asset="91667049886021d62a28c23f7bf72efd69deed9f1993d3130ded1dda4efde51d"/>
   </readme>
-  <license asset="35c9efafe16721448ce885e3db0edb455686414d71217cbbe39553ebe20512db" name="wtfpl"/>
+  <license asset="ff72caa36dca2baa10a8567e7c303f387789759e377b66904047b5cee6f69c2b"/>
   <exercise number="1">
     <scale>major</scale>
     <lowestNote>1</lowestNote>
