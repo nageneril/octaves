@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <level>
   <readme>
-    <locale name="ru" asset="f0458cdfadc28740395a478f963696f2c67158730bce3eba6febea639e6cb8b2"/>
-    <locale name="en" asset="2e161dec5fa3768d4a446629a2e25fdd6fd7d33143d246632cce63235c6fcc7e"/>
-    <locale name="pl" asset="91667049886021d62a28c23f7bf72efd69deed9f1993d3130ded1dda4efde51d"/>
+    <ru>f0458cdfadc28740395a478f963696f2c67158730bce3eba6febea639e6cb8b2</ru>
+    <en>2e161dec5fa3768d4a446629a2e25fdd6fd7d33143d246632cce63235c6fcc7e</en>
+    <pl>91667049886021d62a28c23f7bf72efd69deed9f1993d3130ded1dda4efde51d</pl>
   </readme>
-  <license asset="ff72caa36dca2baa10a8567e7c303f387789759e377b66904047b5cee6f69c2b"/>
+  <license name="cc0">b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
     <scale>major</scale>
     <lowestNote>1</lowestNote>
